@@ -1,6 +1,4 @@
-<div style="align-item:center;">
-  <img src="Image.jpg" style="display:block; margin:auto; width:60%;"/>
-</div>
+<img src="Image.jpg" align="center"/>
 # 💫 About Me:
 OLX website<br>MERN Project<br>React js project<br>React js, Tailwend CSS, Express js, Mongo DB, Node js<br>React js, javascript, front-end<br>I am cool
 
