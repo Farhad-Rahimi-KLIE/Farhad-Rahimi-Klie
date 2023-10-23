@@ -1,4 +1,4 @@
-<img src="Image.jpg" align="center"/>
+<img src="Jan.jpg" align="center"/>
 # 💫 About Me:
 OLX website<br>MERN Project<br>React js project<br>React js, Tailwend CSS, Express js, Mongo DB, Node js<br>React js, javascript, front-end<br>I am cool
 
